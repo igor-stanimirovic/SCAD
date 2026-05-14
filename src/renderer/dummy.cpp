@@ -1,2 +1,0 @@
-void renderer_dummy()
-{}
